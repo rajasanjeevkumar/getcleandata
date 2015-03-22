@@ -1,0 +1,5 @@
+It has Activity column - values contain from 1 to 6
+It has Activity2 column - values contain either from walking to sitting
+It has 9 columns in between which has all the data
+It has User column and contain values from 1 to 30
+The rest of the columns are the columns from the features.txt
