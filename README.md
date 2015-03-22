@@ -1,6 +1,6 @@
 # getcleandata
- There are a total of 42 commands in run_analysis.R
- 1) The first 9 commands reads 9 text files related to TRAINING data. All the commands related to train dataset ends with text 'train'
+ There are a total of 42 commands in run_analysis.R 
+ 1) The first 9 commands reads 9 text files related to TRAINING data. All the commands related to train dataset ends with text 'train' 
 2)Binding these values to a data table and this data table contains 9 columns
 3)The next 9 commands reads 9 text files related to TEST data. All the commands ends with text 'test'
 4)Binding these values to a new data table having 9 columns
